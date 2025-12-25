@@ -2,6 +2,8 @@
 
 The usage-agnostic "Brain" for the Jumbo AI system. This FastAPI-based server acts as the central intelligence node, processing inputs and generating expressions, text, and buzzer commands for the Jumbo hardware.
 
+This is the backend server for the [Jumbo IoT Project](https://github.com/asachanfbd/Jumbo). Please refer to the main repository for hardware details and assembly instructions.
+
 ## Features
 
 - **Brain API**: A `/jumbo-ai/brain` endpoint that maintains conversation context and simulates a conscious lifeform.
